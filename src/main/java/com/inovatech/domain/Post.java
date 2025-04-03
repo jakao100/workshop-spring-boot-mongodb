@@ -84,7 +84,6 @@ public class Post implements Serializable{
 		this.coments = coments;
 	}
 
-
 	@Override
 	public int hashCode() {
 		final int prime = 31;
